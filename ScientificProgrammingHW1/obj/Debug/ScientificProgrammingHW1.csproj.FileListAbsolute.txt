@@ -1,0 +1,9 @@
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\bin\Debug\ScientificProgrammingHW1.exe.config
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\bin\Debug\ScientificProgrammingHW1.exe
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\bin\Debug\ScientificProgrammingHW1.pdb
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.csprojResolveAssemblyReference.cache
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.PredictStock.resources
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.Properties.Resources.resources
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.csproj.GenerateResource.Cache
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.exe
+c:\users\karam\documents\visual studio 2015\Projects\ScientificProgrammingHW1\ScientificProgrammingHW1\obj\Debug\ScientificProgrammingHW1.pdb
